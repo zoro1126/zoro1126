@@ -72,17 +72,6 @@ Outside of open source, I engineer robust systems and solve complex technical ch
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=zoro1126&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoro1126&layout=compact&theme=dracula&hide_border=true&hide=html,css" />
-
-</div>
-
----
-
 <div align="center">
   <sub>Designed with ❤️ and tuned for Hyprland & Arch Linux | <b>@zoro1126</b></sub>
 </div>
