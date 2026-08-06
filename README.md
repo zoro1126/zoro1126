@@ -8,12 +8,6 @@
 
 📍 **Ahmedabad, India** &nbsp;|&nbsp; 🐙 **GitHub:** [@zoro1126](https://github.com/zoro1126) &nbsp;|&nbsp; 💻 **Arch / Hyprland Enthusiast**
 
----
-
-[![GitHub Stars](https://img.shields.io/github/stars/zoro1126?style=for-the-badge&color=8800ff&labelColor=101018)](https://github.com/zoro1126)
-[![GitHub Followers](https://img.shields.io/github/followers/zoro1126?style=for-the-badge&color=00e5ff&labelColor=101018)](https://github.com/zoro1126)
-[![Dotfiles](https://img.shields.io/badge/Dotfiles-void--dots-ff007f?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=101018)](https://github.com/zoro1126/void-dots)
-
 </div>
 
 ---
