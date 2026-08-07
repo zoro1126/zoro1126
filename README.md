@@ -6,7 +6,7 @@
 
 *“Just a nerd doing nerd stuff — from low-level C git implementations to local RAG pipelines & Hyprland rices.”*
 
-📍 **Ahmedabad, India** &nbsp;|&nbsp; 🐙 **GitHub:** [@zoro1126](https://github.com/zoro1126) &nbsp;|&nbsp; 💻 **Arch / Hyprland Enthusiast**
+🐙 **GitHub:** [@zoro1126](https://github.com/zoro1126) &nbsp;|&nbsp; 💻 **Arch / Hyprland Enthusiast**
 
 </div>
 
